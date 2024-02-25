@@ -1,6 +1,6 @@
 ## Overview 
 MindFlow is a unique platform designed to help you clear your mind and unleash your creativity through the power of expressive writing.
-<img width="1923" alt="Screenshot 2023-10-12 at 14 04 59" src="https://github.com/DariusLukasukas/thoughts-flow/assets/64962012/2322ee5e-54f1-4907-95e5-95aa285838b3">
+<img width="1923" alt="App Snapshot" src="https://github.com/DariusLukasukas/thoughts-flow/assets/64962012/2322ee5e-54f1-4907-95e5-95aa285838b3">
 
 ## Features
 
